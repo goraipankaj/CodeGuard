@@ -59,6 +59,7 @@ Risk Classification
     │
     ▼
 Result Generation
+```
 
 
 
@@ -87,3 +88,4 @@ Store in MySQL
 Generate PDF Report
         ↓
 Display Results
+```
