@@ -60,3 +60,30 @@ Risk Classification
     ▼
 Result Generation
 ```
+
+
+
+🏗️ System Architecture
+User Uploads File
+        ↓
+Frontend Receives File
+        ↓
+PHP Backend Validates
+        ↓
+Code Normalization
+        ↓
+Token Matching
+        ↓
+LCS Algorithm
+        ↓
+Hash Fingerprinting
+        ↓
+Groq AI Analysis
+        ↓
+Final Score Calculation
+        ↓
+Store in MySQL
+        ↓
+Generate PDF Report
+        ↓
+Display Results
