@@ -59,7 +59,11 @@ Risk Classification
     │
     ▼
 Result Generation
-```🏗️ System Architecture
+
+
+
+```text
+🏗️ System Architecture
 User Uploads File
         ↓
 Frontend Receives File
